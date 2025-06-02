@@ -29,3 +29,4 @@ Overall, this project demonstrates a practical application of **speech recogniti
 ##output
 
 
+![Image](https://github.com/user-attachments/assets/eef9b28e-86e1-400e-bb6c-12751e2c7284)
